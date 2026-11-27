@@ -10,12 +10,17 @@
   </p>
 </div>
 
-<p align="center"><strong>关于我</strong></p>
+始触代码，所为者 Minecraft 服务器之插件与 mod，不过自娱耳。不意一玩至今，竟以此谋生。
 
-- **多语言全栈**：Go / TypeScript / Java / Python，从 SpringBoot 后台、Vue 管理端到 Tauri 桌面应用、C++ 小玩具，按场景选型，不被语言绑架。
-- **AI Coding 工具链**：折腾 ZCode Hook 拦截、AI Skills 沉淀，以及基于 git worktree 的多会话并行开发工作台。
-- **开源自部署**：Docker 化部署、Matrix 家用服务器，博客从 Hexo 一路折腾到自研。
-- **写作与分享**：在 [blog.aowu.tech](https://blog.aowu.tech) 记录开发实践、工具折腾与踩坑复盘，常驻杭州。
+由插件与 mod 入 Java 之门，其后 SpringBoot 为骨，Vue 为面，所作多后台管理之属。继而涉 Go、TypeScript、Rust，由网页而桌面，由后台系统而开发工具。语言如扳手，应手而取，不为所缚。
+
+码可亲敲，亦善假 Agent 之力。尝拆 ZCode 之 Hook，于问答之际设闸；作 dsh-coding-workspace，使数会话各据一 worktree，并行而不相扰。所守者一：重复之事，付之脚本与 Agent；判断之权，留之于己。
+
+性冷而静，讷于言而敏于键，惯于半夜动手。手则不闲：签到有脚本，tracker 有批量之器，博客自 Hexo 改至自研，游戏之服亦自架。凡一事重复至三，必思所以自动之。
+
+所作有牧云：牧云端诸机如牧羊，一屏而知其冷暖，内置 MCP，使 AI 可代掌之而授权有度。有 paloma：案头小灵物，方成一球，能瞬目而逐鼠。
+
+造器而已，乐此不疲。
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
